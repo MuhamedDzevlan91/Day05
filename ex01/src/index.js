@@ -1,6 +1,6 @@
 function main(){
-    var myFirstString = "I thinktherefore I \\ am \\ -- sentient";
-    var mySecondString = "No, yo only \\ think \\ , so you arent";
+    var myFirstString = "I think therefore I \"am\" -- sentient";
+    var mySecondString = "No, yo only \"think\", so you aren't";
 
   return{
     myFirstString,
